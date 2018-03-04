@@ -28,3 +28,7 @@ rundll32 advpack.dll,LaunchINFSectionEx C:\testExecutionINF.inf,Name Method invo
 pnputil.exe /add-driver C:\FilesINFExecution.inf /install
 
 ```
+## Language LUA in Files .wlua:>
+
+```
+```
