@@ -20,7 +20,11 @@ ScriptLet Execution InSide .INF:>
 rundll32.exe syssetup,SetupInfObjectInstallAction DefaultInstall 128 C:\FilesINFExecution.inf 
 
 rundll32 advpack.dll,LaunchINFSectionEx C:\testExecutionINF.inf,Name Method invoke in Files INF,
+```
 
+pnputil.exe Launcher installer .INF:>
+-------------------------------------------------------------
+```
 pnputil.exe /add-driver C:\FilesINFExecution.inf /install
 
 ```
