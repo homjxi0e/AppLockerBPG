@@ -8,6 +8,7 @@ p^c^a^l^u^a^ ^-^n^ ^-^a^a^^a^a^a^a^a^a^a^a^a^a^^a^a^a^a^a^a^a^a^a^a^^a^a^a^a^a^a
 ```
 
 Alternate Data Streams ADS:>
+-------------------------------------------------------------
 ```
 cmd.exe:> type C:\Users\Gihad\Desktop\file.bat > C:\Users\Gihad\Desktop\test.txt:x22x2
 cmd.exe:> netsh exec C:\Users\Gihad\Desktop\test.txt:x22x2
