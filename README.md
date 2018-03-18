@@ -27,6 +27,9 @@ rundll32 advpack.dll,LaunchINFSectionEx C:\testExecutionINF.inf,Name Method invo
 ```
 pnputil.exe /add-driver C:\FilesINFExecution.inf /install
 
+&- My Code INFScript Injection Command Line 
+https://gist.github.com/homjxi0e/87b29da0d4f504cb675bb1140a931415/raw/49ae512570f8efafee806af85ed456c813921877/SCTINF.inf
+
 ```
 ## Language LUA in Files .wlua:>
 
